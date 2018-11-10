@@ -1,0 +1,52 @@
+/* #p1 {
+    color: red;
+    width: 500px;
+  border: 1px solid black;
+}
+.p2 {
+    color: royalblue;
+}
+
+img[src] {
+    width: 100px;
+}
+
+a:hover {
+    color: red;
+    width: 500px;
+  border: 1px solid black;
+} */
+
+html {
+    font-size: 20px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: 'Open Sans', sans-serif; /* this should be the rest of the output you got from Google fonts */
+}
+
+img {
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+html {
+    background-color:#00539F;
+}
+
+body {
+    width: 600px;
+    margin: 100px auto;
+    background-color: #FF9500;
+    padding: 0 50px 50px 120px;
+    border: 10px solid black;
+  }
+
+h1 {
+    margin: 0;
+    padding: 20px 0;    
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+}
+
+button {
+    width: 200px
+}
